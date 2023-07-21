@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cristina
 - 👀 I’m interested in Javascript, React
 - 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate on projects for beginners
+- 💞️ I’m looking to collaborate on Projects for beginners
 - 📫 How to reach me - via email: cristina.stoian@yahoo.com
 
 <!---
